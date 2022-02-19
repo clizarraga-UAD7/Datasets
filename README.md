@@ -2,7 +2,7 @@
 
 ## A dataset collection for Pandas analysis
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Text-csv-text.svg/523px-Text-csv-text.svg.png" width="768"
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Text-csv-text.svg/523px-Text-csv-text.svg.png" width="256")></p>
 
 (Image Credit: Wikimedia Commons, CC)
 ***
@@ -18,4 +18,4 @@
 
 ***
 
-Updated: 02/18/2022, C. Lizarraga
+Created: 02/18/2022, Updated: 02/18/2022, C. Lizarraga
