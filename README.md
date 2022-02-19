@@ -15,7 +15,6 @@
 * [US Census Bureau](https://www.census.gov/data/datasets.html)
 * [US Data.Gov](https://www.data.gov)
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
 ***
 
