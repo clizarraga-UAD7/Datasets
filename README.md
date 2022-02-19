@@ -19,3 +19,11 @@
 ***
 
 Created: 02/18/2022, Updated: 02/18/2022, C. Lizarraga
+
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+\[
+\frac{\partial u}{\partial t} = - \frac{\partial^2 u}{\partial x^2}
+\]
