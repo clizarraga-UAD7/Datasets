@@ -15,7 +15,9 @@
 * [US Census Bureau](https://www.census.gov/data/datasets.html)
 * [US Data.Gov](https://www.data.gov)
 
+More datasets: [Part 1](https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-1.html)
+
 
 ***
 
-Created: 02/18/2022, Updated: 02/18/2022, C. Lizarraga
+Created: 02/18/2022, Updated: 04/04/2022, C. Lizarraga
