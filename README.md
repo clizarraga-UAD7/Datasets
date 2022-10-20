@@ -7,9 +7,12 @@
 (Image Credit: Wikimedia Commons, CC)
 ***
 
-
+* [datahub.io](https://datahub.io/search)
+* [Earth Data at NASA](https://www.earthdata.nasa.gov)
+* [Federal Bureau of Investigation - Crime Data Explorer](https://crime-data-explorer.app.cloud.gov/pages/home)
 * [Google Dataset Search](https://datasetsearch.research.google.com)
-* [Kaggle](https://www.kaggle.com/datasets)
+* [Global Health Data](https://www.who.int/data/gho). World Health Organization.
+* [Kaggle datasets](https://www.kaggle.com/datasets)
 * [Papers with Code](https://paperswithcode.com/datasets)
 * [University of California at Irvine](https://archive-beta.ics.uci.edu/ml/datasets)
 * [US Census Bureau](https://www.census.gov/data/datasets.html)
