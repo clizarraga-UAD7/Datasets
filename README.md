@@ -14,6 +14,7 @@
 * [Global Health Data](https://www.who.int/data/gho). World Health Organization.
 * [Kaggle datasets](https://www.kaggle.com/datasets)
 * [Papers with Code](https://paperswithcode.com/datasets)
+* [UNAVCO Data](https://www.unavco.org/data/data.html) | [Colection of notebook observables](https://www.unavco.org/notebooks/observable/)
 * [University of California at Irvine](https://archive-beta.ics.uci.edu/ml/datasets)
 * [US Census Bureau](https://www.census.gov/data/datasets.html)
 * [US Data.Gov](https://www.data.gov)
@@ -23,4 +24,4 @@ More datasets: [Kdnuggets: Complete Collection of Data Repositories (Part 1)](ht
 
 ***
 
-Created: 02/18/2022, Updated: 04/04/2022, C. Lizarraga
+Created: 02/18/2022, Updated: 10/21/2022, C. Lizarraga
