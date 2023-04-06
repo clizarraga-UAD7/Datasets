@@ -8,6 +8,7 @@
 ***
 
 * [datahub.io](https://datahub.io/search)
+* [Dataverse](https://dataverse.org/)
 * [Earth Data at NASA](https://www.earthdata.nasa.gov)
 * [Federal Bureau of Investigation - Crime Data Explorer](https://crime-data-explorer.app.cloud.gov/pages/home)
 * [Google Dataset Search](https://datasetsearch.research.google.com)
